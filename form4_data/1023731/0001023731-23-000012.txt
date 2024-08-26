@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001023731-23-000012.txt : 20230118
+<SEC-HEADER>0001023731-23-000012.hdr.sgml : 20230118
+<ACCEPTANCE-DATETIME>20230118162401
+ACCESSION NUMBER:		0001023731-23-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230117
+FILED AS OF DATE:		20230118
+DATE AS OF CHANGE:		20230118
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilson Samuel C.
+		CENTRAL INDEX KEY:			0001814487
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38312
+		FILM NUMBER:		23534699
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 8X8 INC
+		STREET 2:		675 CREEKSIDE WAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			8X8 INC /DE/
+		CENTRAL INDEX KEY:			0001023731
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				770142404
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		675 CREEKSIDE WAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+		BUSINESS PHONE:		4087271885
+
+	MAIL ADDRESS:	
+		STREET 1:		675 CREEKSIDE WAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETERGY NETWORKS INC
+		DATE OF NAME CHANGE:	20000912
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	8X8 INC
+		DATE OF NAME CHANGE:	19961023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167407701447550.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001023731</issuerCik>
+        <issuerName>8X8 INC /DE/</issuerName>
+        <issuerTradingSymbol>EGHT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001814487</rptOwnerCik>
+            <rptOwnerName>Wilson Samuel C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 8X8, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>675 CREEKSIDE WAY</rptOwnerStreet2>
+            <rptOwnerCity>CAMPBELL</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Interim Chief Executive Off.</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.5833</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>784273</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported in this line was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 12, 2022</footnote>
+        <footnote id="F2">The price is the weighted average sales price for the transactions reported on this line. The prices for the transactions reported on this line range from $4.50 to $4.62. The reporting person undertakes to provide, upon request by the staff of the Securities and Exchange Commission, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Cheriese Dickman as Attorney in Fact for Samuel C Wilson</signatureName>
+        <signatureDate>2023-01-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

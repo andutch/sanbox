@@ -1,0 +1,558 @@
+<SEC-DOCUMENT>0001209191-23-000812.txt : 20230104
+<SEC-HEADER>0001209191-23-000812.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104160247
+ACCESSION NUMBER:		0001209191-23-000812
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BAKER BROS. ADVISORS LP
+		CENTRAL INDEX KEY:			0001263508
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506166
+
+	BUSINESS ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		2123395600
+
+	MAIL ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BAKER BROS ADVISORS LLC
+		DATE OF NAME CHANGE:	20030911
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BAKER JULIAN
+		CENTRAL INDEX KEY:			0001087939
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506164
+
+	MAIL ADDRESS:	
+		STREET 1:		BAKER BROS. ADVISORS LP
+		STREET 2:		860 WASHINGTON STREET 3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BAKER FELIX
+		CENTRAL INDEX KEY:			0001087940
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506161
+
+	MAIL ADDRESS:	
+		STREET 1:		BAKER BROS. ADVISORS LP
+		STREET 2:		860 WASHINGTON STREET 3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baker Bros. Advisors (GP) LLC
+		CENTRAL INDEX KEY:			0001580575
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		(212)339-5600
+
+	MAIL ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baker Brothers Life Sciences LP
+		CENTRAL INDEX KEY:			0001363364
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		212-339-5600
+
+	MAIL ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			667, L.P.
+		CENTRAL INDEX KEY:			0001551139
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		23506165
+
+	BUSINESS ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		212-339-5600
+
+	MAIL ADDRESS:	
+		STREET 1:		860 WASHINGTON STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INCYTE CORP
+		CENTRAL INDEX KEY:			0000879169
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				943136539
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+		BUSINESS PHONE:		3024986700
+
+	MAIL ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE CORP
+		DATE OF NAME CHANGE:	20030318
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE GENOMICS INC
+		DATE OF NAME CHANGE:	20000710
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	19930902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000879169</issuerCik>
+        <issuerName>INCYTE CORP</issuerName>
+        <issuerTradingSymbol>INCY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001263508</rptOwnerCik>
+            <rptOwnerName>BAKER BROS. ADVISORS LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001551139</rptOwnerCik>
+            <rptOwnerName>667, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001087939</rptOwnerCik>
+            <rptOwnerName>BAKER JULIAN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001580575</rptOwnerCik>
+            <rptOwnerName>Baker Bros. Advisors (GP) LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001363364</rptOwnerCik>
+            <rptOwnerName>Baker Brothers Life Sciences LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001087940</rptOwnerCik>
+            <rptOwnerName>BAKER FELIX</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>860 WASHINGTON STREET, 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>278773</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>281190</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33410</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>397</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2945018</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>397</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33422926</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Common stock (&quot;Common Stock&quot;) of Incyte Corporation (the &quot;Issuer&quot;) directly held by Julian C. Baker, a managing member of Baker Bros. Advisors (GP) LLC (the &quot;Adviser GP&quot;).</footnote>
+        <footnote id="F2">Common Stock directly held by Felix J. Baker, a managing member of the Adviser GP.</footnote>
+        <footnote id="F3">Julian C. Baker and Felix J. Baker may be deemed to have an indirect pecuniary interest in 33,410 shares of Common Stock directly held by FBB Associates. Julian C. Baker and Felix J. Baker are the sole partners of FBB Associates. Julian C. Baker and Felix J. Baker disclaim beneficial ownership of the securities held directly by FBB Associates except to the extent of their pecuniary interest therein, and this report shall not be deemed an admission that Julian C. Baker or Felix J. Baker is a beneficial owner of such securities for purposes of Section 16 or any other purpose.</footnote>
+        <footnote id="F4">After giving effect to the transaction reported herein and as a result of their ownership interest in (i) Baker Biotech Capital, L.P. and (ii) 667, L.P. (&quot;667&quot;), Julian C. Baker and Felix J. Baker each may be deemed to have an indirect pecuniary interest in Common Stock reported in column 5 of Table I directly held by 667, a limited partnership of which the sole general partner is Baker Biotech Capital, L.P., a limited partnership of which the sole general partner is Baker Biotech Capital (GP), LLC, due to their interest in 667 and Baker Biotech Capital, L.P.'s right to receive an allocation of a portion of the profits from 667.</footnote>
+        <footnote id="F5">Baker Bros. Advisors LP (the &quot;Adviser&quot;) serves as the investment adviser to 667 and Baker Brothers Life Sciences, L.P. (&quot;Life Sciences&quot;, and together with 667, the &quot;Funds&quot;). In connection with the services provided by the Adviser, the Adviser receives an asset-based management fee that does not confer any pecuniary interest in the securities held by the Funds. The Adviser GP is the Adviser's sole general partner. Julian C. Baker and Felix J. Baker are managing members of the Adviser GP. The Adviser has complete and unlimited discretion and authority with respect to the investment and voting power of the securities held by the Funds. The general partners of the Funds relinquished to the Adviser all discretion and authority with respect to the investment and voting power of the securities held by the Funds.</footnote>
+        <footnote id="F6">Julian C. Baker, Felix J. Baker, the Adviser GP and the Adviser disclaim beneficial ownership of the securities held directly by the Funds except to the extent of their pecuniary interest therein, and this report shall not be deemed an admission that any of Julian C. Baker, Felix J. Baker, the Adviser GP or the Adviser is a beneficial owner of such securities for purposes of Section 16 or any other purpose.</footnote>
+        <footnote id="F7">Includes beneficial ownership of 8,563 shares of Common Stock previously issued to Julian C. Baker pursuant to the Issuer's Amended and Restated 2010 Stock Incentive Plan (the &quot;Stock Incentive Plan&quot;) in lieu of director retainer fees, 6,869 shares of Common Stock received previously from vested restricted stock units (each, an &quot;RSU&quot;) and 195,000 shares of Common Stock received previously from the exercise of 195,000 non-qualified stock options to purchase Common Stock (&quot;Stock Options&quot;) that were issued to Julian C. Baker in his capacity as a director of the Issuer, of which the Funds may be deemed to own a portion.</footnote>
+        <footnote id="F8">Pursuant to the policies of the Adviser, Julian C. Baker does not have a right to any of the Issuer's securities issued in lieu of director retainer fees and the Funds are entitled to an indirect proportionate pecuniary interest in the securities. The Funds each own an indirect proportionate pecuniary interest in the shares of Common Stock. Solely as a result of their ownership interest in (i) the general partners of the Funds and (ii) the Funds, Felix J. Baker and Julian C. Baker may be deemed to have an indirect pecuniary interest in the shares of Common Stock issued in lieu of director retainer fees, Stock Options, Common Stock issued upon exercise of Stock Options, RSU's payable solely in Common Stock and Common Stock received upon vesting of RSUs (ie. no direct pecuniary interest).</footnote>
+        <footnote id="F9">Pursuant to agreements between Julian C. Baker and the Adviser and the policies of the Adviser, the Adviser has voting and dispositive power over the Common Stock received in lieu of director retainer fees, Stock Options, RSUs and any Common Stock received as a result of the exercise of Stock Options or vesting of RSUs.</footnote>
+        <footnote id="F10">The disclosure of the grant of RSUs reported on this form is a single grant of 397 RSUs on Table I. The 397 RSUs are reported for each of the Funds as each has an indirect pecuniary interest in such securities.</footnote>
+        <footnote id="F11">397 shares of Common Stock issued to Julian C. Baker pursuant to the Stock Incentive Plan in lieu of quarterly director retainer fees of $32,000. The shares of Common Stock are fully vested. Julian C. Baker serves on the Issuer's board of directors (the &quot;Board&quot;) as a representative of the Funds.</footnote>
+        <footnote id="F12">After giving effect to the transaction reported herein and as a result of their ownership interest in (i) Baker Brothers Life Sciences Capital, L.P. and (ii) Life Sciences, Julian C. Baker and Felix J. Baker each may be deemed to have an indirect pecuniary interest in Common Stock reported in column 5 of
+Table I directly held by Life Sciences, a limited partnership of which the sole general partner is Baker Brothers Life Sciences Capital, L.P., a limited partnership of which the sole general partner is Baker Brothers Life Sciences Capital (GP), LLC, due to their interest in Life Sciences and Baker Brothers
+Life Sciences Capital, L.P.'s right to receive an allocation of a portion of the profits from Life Sciences.</footnote>
+    </footnotes>
+
+    <remarks>Julian C. Baker, a managing member of Baker Bros. Advisors (GP) LLC, the sole general partner of Baker Bros. Advisors LP, is a director of Incyte Corporation (the &quot;Issuer&quot;). By virtue of their representation on the board of directors of the Issuer, for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the reporting persons are deemed directors by deputization of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>By: Baker Bros. Advisors LP, Name: Scott L. Lessing, Title: President /s/ Scott L. Lessing</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Baker Bros. Advisors LP, Mgmt. Co. and Inv. Adviser to 667, L.P., pursuant to authority granted by Baker Biotech Capital, L.P., GP to 667, L.P. Name: Scott L. Lessing, Title: President /s/ Scott L. Lessing</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Julian C. Baker</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: Baker Bros. Advisors (GP) LLC, Name: Scott L. Lessing, Title: President /s/ Scott L. Lessing</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Baker Bros. Advisors LP, Mgmt. Co. and Inv. Adviser to BAKER BROTHERS LIFE SCIENCES, L.P., pursuant to authority granted by Baker Brothers Life Sciences Capital, L.P., GP to Baker Brothers Life Sciences, L.P., Name: Scott L. Lessing, Title: President /s/</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Felix J. Baker</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,617 @@
+<SEC-DOCUMENT>0001209191-23-013671.txt : 20230228
+<SEC-HEADER>0001209191-23-013671.hdr.sgml : 20230228
+<ACCEPTANCE-DATETIME>20230228162955
+ACCESSION NUMBER:		0001209191-23-013671
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230224
+FILED AS OF DATE:		20230228
+DATE AS OF CHANGE:		20230228
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schwab Andrew J.
+		CENTRAL INDEX KEY:			0001598549
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685971
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 5AM VENTURES
+		STREET 2:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PARMAR KUSH
+		CENTRAL INDEX KEY:			0001664281
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685970
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 5AM VENTURES
+		STREET 2:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Opportunities I, L.P.
+		CENTRAL INDEX KEY:			0001753000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685972
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 SECOND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 SECOND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Ventures VI, L.P.
+		CENTRAL INDEX KEY:			0001753037
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685973
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Opportunities II (GP), LLC
+		CENTRAL INDEX KEY:			0001873515
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685969
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Partners VI, LLC
+		CENTRAL INDEX KEY:			0001829051
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685974
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Opportunities II, L.P.
+		CENTRAL INDEX KEY:			0001844401
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685968
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			5AM Opportunities I (GP), LLC
+		CENTRAL INDEX KEY:			0001790778
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41201
+		FILM NUMBER:		23685967
+
+	BUSINESS ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 993-8565
+
+	MAIL ADDRESS:	
+		STREET 1:		501 2ND STREET, SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CinCor Pharma, Inc.
+		CENTRAL INDEX KEY:			0001868734
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		230 THIRD AVE., 6TH FLOOR
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		8445311834
+
+	MAIL ADDRESS:	
+		STREET 1:		230 THIRD AVE., 6TH FLOOR
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-24</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001868734</issuerCik>
+        <issuerName>CinCor Pharma, Inc.</issuerName>
+        <issuerTradingSymbol>CINC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001829051</rptOwnerCik>
+            <rptOwnerName>5AM Partners VI, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001753037</rptOwnerCik>
+            <rptOwnerName>5AM Ventures VI, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001753000</rptOwnerCik>
+            <rptOwnerName>5AM Opportunities I, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001598549</rptOwnerCik>
+            <rptOwnerName>Schwab Andrew J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001664281</rptOwnerCik>
+            <rptOwnerName>PARMAR KUSH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001873515</rptOwnerCik>
+            <rptOwnerName>5AM Opportunities II (GP), LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001844401</rptOwnerCik>
+            <rptOwnerName>5AM Opportunities II, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001790778</rptOwnerCik>
+            <rptOwnerName>5AM Opportunities I (GP), LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>501 2ND STREET, SUITE 350</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94107</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>U</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3953990</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 5AM Ventures VI, L.P.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>U</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>487333</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 5AM Opportunities II, L.P.</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>U</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>496323</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 5AM Opportunities I, L.P.</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated as of January 8, 2023, by and among CinCor Pharma, Inc. (the &quot;Issuer&quot;), AstraZeneca Finance and Holdings Inc. (&quot;Parent&quot;) and Cinnamon Acquisition, Inc., a wholly owned subsidiary of Parent (&quot;Purchaser&quot;), on February 24, 2023, Purchaser completed a tender offer for shares of common stock of the Issuer (each, a &quot;Share&quot;) and thereafter merged with and into the Issuer, with the Issuer continuing as the surviving corporation and a wholly owned subsidiary of Parent (the &quot;Merger&quot;). At the effective time of the Merger, each issued and outstanding Share was cancelled in exchange for (i) $26.00 per Share in cash (the &quot;Cash Amount&quot;), plus (ii) one contingent value right (each, a &quot;CVR&quot;) per Share representing the right to receive a contingent payment of $10.00 per share, [continues to footnote (2)]</footnote>
+        <footnote id="F2">[continues from footnote (1)] in cash, upon the achievement of a specified milestone by December 31, 2033 (the Cash Amount plus one CVR, collectively, the &quot;Offer Price&quot;), in each case, without interest, subject to any applicable withholding taxes. Pursuant to the terms of the Merger Agreement, the Shares were tendered and disposed of at the Offer Acceptance Time (as defined in the Merger Agreement) in exchange for the right to receive the Offer Price.</footnote>
+        <footnote id="F3">Shares are held by 5AM Ventures VI, L.P. (&quot;Ventures VI&quot;). 5AM Partners VI, LLC (&quot;Partners VI&quot;) is the sole general partner of Ventures VI. Dr. Kush Parmar and Andrew J. Schwab are the managing members of Partners VI and may be deemed to have shared voting and investment power over the shares beneficially owned by Ventures VI. Each of Partners VI, Dr. Parmar, and Mr. Schwab disclaims beneficial ownership of such shares except to the extent of its or his pecuniary interest therein.</footnote>
+        <footnote id="F4">Shares are held by 5AM Opportunities II, L.P. (&quot;Opportunities II&quot;). 5AM Opportunities II (GP), LLC (&quot;Opportunities II GP&quot;) is the sole general partner of Opportunities II. Andrew J. Schwab and Dr. Kush Parmar are the managing members of Opportunities II GP and may be deemed to have shared voting and investment power over the shares beneficially owned by Opportunities II. Each of Opportunities II GP, Mr. Schwab and Dr. Parmar disclaims beneficial ownership of such shares except to the extent of its or his pecuniary interest therein.</footnote>
+        <footnote id="F5">Shares are held by 5AM Opportunities I, L.P. (&quot;Opportunities&quot;). 5AM Opportunities I (GP), LLC (&quot;Opportunities GP&quot;) is the sole general partner of Opportunities. Andrew J. Schwab and Dr. Kush Parmar are the managing members of Opportunities GP and may be deemed to have shared voting and investment power over the shares beneficially owned by Opportunities. Each of Opportunities GP, Mr. Schwab and Dr. Parmar disclaims beneficial ownership of such shares except to the extent of its or his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>5AM Partners VI, LLC, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>5AM Ventures VI, L.P., By: 5AM Partners VI, LLC, its General Partner, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>5AM Opportunities I, L.P., By: 5AM Opportunities I (GP), LLC, its General Partner, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew J. Schwab</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Kush Parmar</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>5AM Opportunities II (GP), LLC, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>5AM Opportunities II, L.P., By: 5AM Opportunities II (GP), LLC, its General Partner, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>5AM Opportunities I (GP), LLC, By /s/ Kush Parmar, Managing Member</signatureName>
+        <signatureDate>2023-02-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

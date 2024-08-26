@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001415889-23-005588.txt : 20230329
+<SEC-HEADER>0001415889-23-005588.hdr.sgml : 20230329
+<ACCEPTANCE-DATETIME>20230329184155
+ACCESSION NUMBER:		0001415889-23-005588
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230329
+DATE AS OF CHANGE:		20230329
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lalljie Paul S
+		CENTRAL INDEX KEY:			0001453878
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36376
+		FILM NUMBER:		23776664
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			2U, Inc.
+		CENTRAL INDEX KEY:			0001459417
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				262335939
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+		BUSINESS PHONE:		(301) 892-4350
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	2tor, Inc.
+		DATE OF NAME CHANGE:	20090324
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-03292023_100346.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001459417</issuerCik>
+        <issuerName>2U, Inc.</issuerName>
+        <issuerTradingSymbol>TWOU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001453878</rptOwnerCik>
+            <rptOwnerName>Lalljie Paul S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 2U, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7900 HARKINS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LANHAM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20706</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF FINANCIAL OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>178603</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>671173</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The security represents restricted stock units granted to the reporting person. Each restricted stock unit represents a contingent right to receive one share of common stock of the issuer.</footnote>
+        <footnote id="F2">The restricted stock unit award will vest quarterly in equal installments as to 1/12th of the underlying shares beginning on April 1, 2023, and continuing in equal quarterly installments until 100% vested, subject to the reporting person's continued service with the issuer as of the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew J. Norden, attorney-in-fact</signatureName>
+        <signatureDate>2023-03-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

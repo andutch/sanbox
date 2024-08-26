@@ -1,0 +1,807 @@
+<SEC-DOCUMENT>0001562180-23-001867.txt : 20230224
+<SEC-HEADER>0001562180-23-001867.hdr.sgml : 20230224
+<ACCEPTANCE-DATETIME>20230224184121
+ACCESSION NUMBER:		0001562180-23-001867
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230222
+FILED AS OF DATE:		20230224
+DATE AS OF CHANGE:		20230224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thaler Bjorn B
+		CENTRAL INDEX KEY:			0001800588
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39203
+		FILM NUMBER:		23669332
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 1LIFE HEALTHCARE, INC.
+		STREET 2:		ONE EMBARCADERO CENTER, SUITE 1900
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1Life Healthcare Inc
+		CENTRAL INDEX KEY:			0001404123
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE [8011]
+		IRS NUMBER:				760707204
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE EMBARCADERO CENTER, SUITE 1900
+		CITY:			San Francisco
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		(415) 814-0927
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE EMBARCADERO CENTER, SUITE 1900
+		CITY:			San Francisco
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	1life Healthcare Inc
+		DATE OF NAME CHANGE:	20070621
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-22</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001404123</issuerCik>
+        <issuerName>1Life Healthcare Inc</issuerName>
+        <issuerTradingSymbol>ONEM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001800588</rptOwnerCik>
+            <rptOwnerName>Thaler Bjorn B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 1LIFE HEALTHCARE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE EMBARCADERO CENTER, SUITE 1900</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21532.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.93</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>52083.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-05-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>52083.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.47</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-09-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>200000.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>27.25</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>108182.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-05-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>108182.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>42.68</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>108834.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-01-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>108834.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>19.81</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>209164.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-11-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>209164.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>12.16</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>332279.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-01-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>332279.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30752.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F11"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F11"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30752.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>41488.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F12"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F12"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>41488.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>237529.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F13"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F13"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>237529.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F9"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>194030.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F12"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F12"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>194030.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects disposition of Issuer common stock with the consummation of the transactions contemplated by the Agreement and Plan of Merger (the
+&quot;Merger Agreement&quot;), dated as of July 20, 2022, by and among Issuer, Amazon.com, Inc. (&quot;Parent&quot;) and Negroni Merger Sub, Inc., a wholly
+owned subsidiary of Parent (&quot;Merger Sub&quot;), including the consummation of the merger (the &quot;Merger&quot;) between Issuer and Merger Sub on
+February 22, 2023. Pursuant to the Merger Agreement, as of the effective time of the Merger (the &quot;Effective Time&quot;), each share of Issuer
+common stock, par value $0.001 per share (&quot;Shares&quot;) issued and outstanding immediately prior to the Effective Time was converted
+automatically into the right to receive $18.00 in cash, without interest (the &quot;Merger Consideration&quot;).</footnote>
+        <footnote id="F10">Pursuant to the Merger Agreement, at the Effective Time, each outstanding RSU granted under any Issuer Stock Plan that was unvested as of
+the Effective Time, by virtue of the Merger, was converted into the right to receive an amount in cash equal to the product of (i) the Merger
+Consideration and (ii) the aggregate number of Shares subject to such unvested RSU as of immediately prior to the Effective Time (the
+&quot;Unvested RSU Payment&quot;), provided that such Unvested RSU Payment (x) shall be subject to the same vesting and forfeiture provisions as
+were applicable to such unvested RSU immediately prior to the Effective Time, (y) shall vest in installments over the remainder of the vesting
+schedule of such RSU based on the same percentage of the RSU that would have vested on each applicable vesting date and (z) shall be
+subject to forfeiture on the same terms and conditions as were applicable to such RSU, subject to any required withholding of taxes.</footnote>
+        <footnote id="F11">The RSUs vest annually over three years, with 25% of the RSUs vesting on each of the first and second anniversaries of the vesting
+commencement date and 50% of the RSUs vesting on the third anniversary of the vesting commencement date, subject to the reporting
+person's continuous service as of each such date.</footnote>
+        <footnote id="F12">The RSUs vest in equal annual installments over four years on the anniversary of the vesting commencement date, subject to the reporting
+person's continuous service as of each such date.</footnote>
+        <footnote id="F13">The RSUs vest annually over four years, with 50% of the RSUs units vesting on the first anniversary of the grant date; 20% vesting on the
+second anniversary of the grant date; and 15% vesting on each of the third and fourth anniversaries of the grant date, subject to reporting
+person's continuous service as of each such date.</footnote>
+        <footnote id="F2">Pursuant to the Merger Agreement, at the Effective Time, each outstanding option (&quot;Option&quot;) to purchase Shares granted under any of the
+Issuer's 2007 Equity Incentive Plan, 2017 Equity Incentive Plan, 2020 Equity Incentive Plan and the Iora Third Amended and Restated 2011
+Equity Incentive Plan (collective, the &quot;Issuer Stock Plans&quot;) or portion thereof that was vested or became vested as of the Effective Time, and
+had an exercise price per Share that is less than the Merger Consideration, was canceled and converted into the right to receive an amount in
+cash, without interest, equal to the product of (i) the amount by which the Merger Consideration exceeds the applicable exercise price per Share
+of such Option and (ii) the aggregate number of Shares issuable upon exercise of such Option or portion thereof, subject to any required
+withholding of taxes.</footnote>
+        <footnote id="F3">Pursuant to the Merger Agreement, at the Effective Time, each outstanding Option that was unvested and that had an exercise price per Share that was less than the Merger Consideration was, by virtue of the Merger, converted into the right to receive an amount in cash equal to the
+product of (i) the amount by which the Merger Consideration exceeds the exercise price per Share of such Option and (ii) the aggregate number
+of Shares subject to such unvested Option or portion thereof as of immediately prior to the Effective Time (the &quot;Unvested Option Payment&quot;),
+provided that such Unvested Option Payment (x) shall be subject to the same vesting and forfeiture provisions as were applicable to such
+unvested Option immediately prior to the Effective Time, (y) shall vest in installments over the remainder of the vesting schedule of such Option
+based on the same percentage of the Option that would have vested on each applicable vesting date, subject to any required withholding of
+taxes.</footnote>
+        <footnote id="F4">The shares subject to the option vest as follows: 25% of the shares subject to the option vest on the first anniversary of the vesting commencement date; and 1/48th of the shares subject to the option vest monthly thereafter over the following three years, subject to reporting person's continuous service as of each such date.</footnote>
+        <footnote id="F5">The shares subject to the option vest as follows: 20% of the shares subject to the option vest on the first anniversary of the vesting
+commencement date; and 1/60th of the shares subject to the option vest monthly thereafter over the following four years, subject to reporting
+person's continuous service as of each such date.</footnote>
+        <footnote id="F6">Pursuant to the Merger Agreement, at the Effective Time, each Option, whether vested or unvested, that has an exercise price per Share that is
+greater than the Merger Consideration was canceled without the payment of consideration.</footnote>
+        <footnote id="F7">The shares subject to the option vest as follows: 1/48th of the shares subject to the option vest monthly over four years commencing on the
+vesting commencement date, subject to reporting person's continuous service as of each such date.</footnote>
+        <footnote id="F8">The shares subject to the option vest as follows: options vest monthly over three years, with 25% of the shares subject to the option vesting on
+each of the first and second anniversaries of the vesting commencement date and 50% of the shares subject to the option vesting on the third
+anniversary of the vesting commencement date, subject to the reporting person's continuous service as of each such date.</footnote>
+        <footnote id="F9">Each restricted stock unit (&quot;RSU&quot;) represents a contingent right to receive one share of the issuer's common stock. RSUs convert into the
+issuer's common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ivy Tseng, Attorney-in-Fact for Bjorn B. Thaler</signatureName>
+        <signatureDate>2023-02-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>bthalerpoa1.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+      Know all by these presents, that the undersigned hereby
+constitutes and appoints each of LISA A. MANGO, MATTHEW B. HEMINGTON and
+IVY TSENG, signing individually, the undersigned's true and lawful
+attorneys-in fact and agents to:
+(1)	execute for and on behalf of the undersigned, in the
+undersigned's capacity as an officer, director or beneficial
+owner of more than 10% of a registered class of securities of
+1Life Healthcare, Inc. (the "Company"), Forms 3, 4 and 5
+(including any amendments thereto) in accordance with Section
+16(a) of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act") and the rules thereunder and a Form ID, Uniform
+Application for Access Codes to File on EDGAR;
+(2)	do and perform any and all acts for and on behalf of the
+undersigned that may be necessary or desirable to execute such
+Forms 3, 4 or 5 or Form ID (including any amendments thereto)
+and timely file such forms with the United States Securities and
+Exchange Commission and any stock exchange or similar authority;
+and
+(3)	take any other action of any nature whatsoever in
+connection with the foregoing which, in the opinion of such
+attorney-in-fact, may be of benefit, in the best interest of, or
+legally required by, the undersigned, it being understood that
+the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such
+form and shall contain such terms and conditions as such
+attorney-in-fact may approve in such attorney-in-fact's
+discretion.
+      The undersigned hereby grants to each such attorney-in-fact full
+power and authority to do and perform any and every act and thing
+whatsoever requisite, necessary or proper to be done in the exercise
+of any of the rights and powers herein granted, as fully to all
+intents and purposes as the undersigned might or could do if
+personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or
+such attorney-in-fact's substitute or substitutes, shall lawfully do
+or cause to be done by virtue of this power of attorney and the
+rights and powers herein granted.  The undersigned acknowledges that
+the foregoing attorneys-in-fact, in serving in such capacity at the
+request of the undersigned, are not assuming, nor is the Company
+assuming, any of the undersigned's responsibilities to comply with
+Section 16 of the Exchange Act.
+      This Power of Attorney shall remain in full force and effect
+until the earliest to occur of (a) the undersigned is no longer
+required to file Forms 3, 4 and 5 with respect to the undersigned's
+holdings of and transactions in securities issued by the Company, (b)
+revocation by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact or (c) as to any attorney-in-fact
+individually, until such attorney-in-fact is no longer employed by
+the Company or Cooley LLP.  The undersigned hereby acknowledges that
+this Power of Attorney supersedes, revokes and terminates any power
+of attorney executed by the undersigned prior to the date hereof for
+the purposes listed above.
+      IN WITNESS WHEREOF, the undersigned has caused this Power of
+Attorney to be executed as of Date: February 3, 2021.
+
+/s/Bjorn Thaler
+Bjorn Thaler
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,341 @@
+<SEC-DOCUMENT>0001214659-23-003543.txt : 20230303
+<SEC-HEADER>0001214659-23-003543.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303183951
+ACCESSION NUMBER:		0001214659-23-003543
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			325 CAPITAL LLC
+		CENTRAL INDEX KEY:			0001873893
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21121
+		FILM NUMBER:		23706679
+
+	BUSINESS ADDRESS:	
+		STREET 1:		757 THIRD AVENUE
+		STREET 2:		20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-376-5325
+
+	MAIL ADDRESS:	
+		STREET 1:		757 THIRD AVENUE
+		STREET 2:		20TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FRIEDBERG DANIEL M.
+		CENTRAL INDEX KEY:			0001448795
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21121
+		FILM NUMBER:		23706676
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SAGARD CAPITAL
+		STREET 2:		325 GREENWICH AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	FRIEDBERG DANIEL
+		DATE OF NAME CHANGE:	20150622
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Friedberg Dan
+		DATE OF NAME CHANGE:	20081027
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shrivastava Anil K
+		CENTRAL INDEX KEY:			0001908019
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21121
+		FILM NUMBER:		23706675
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		STREET 2:		17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Braner Michael David
+		CENTRAL INDEX KEY:			0001908015
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21121
+		FILM NUMBER:		23706678
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		STREET 2:		17TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANSACT TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001017303
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				061456680
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HAMDEN CENTER
+		STREET 2:		2319 WHITNEY AVENUE, SUITE 3B
+		CITY:			HAMDEN
+		STATE:			CT
+		ZIP:			06518
+		BUSINESS PHONE:		203-859-6800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HAMDEN CENTER
+		STREET 2:		2319 WHITNEY AVENUE, SUITE 3B
+		CITY:			HAMDEN
+		STATE:			CT
+		ZIP:			06518
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-59824.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001017303</issuerCik>
+        <issuerName>TRANSACT TECHNOLOGIES INC</issuerName>
+        <issuerTradingSymbol>TACT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001873893</rptOwnerCik>
+            <rptOwnerName>325 CAPITAL LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PARK AVENUE, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001908015</rptOwnerCik>
+            <rptOwnerName>Braner Michael David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PARK AVENUE, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001448795</rptOwnerCik>
+            <rptOwnerName>FRIEDBERG DANIEL M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PARK AVENUE, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001908019</rptOwnerCik>
+            <rptOwnerName>Shrivastava Anil K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PARK AVENUE, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Restricted Stock Units convert to common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The Restricted Stock Units were issued pursuant to the TransAct Technologies Incorporated 2014 Equity Incentive Plan, as Amended and Restated. The Restricted Stock Units vest 25% per year on each anniversary of the date of grant.</footnote>
+        <footnote id="F3">This Report is filed jointly by 325 Capital LLC, a Delaware limited liability company (&quot;325 Capital&quot;), Michael D. Braner, a citizen of the United States of America, Daniel M. Friedberg, a citizen of the United States of America, and Anil K. Shrivastava, a citizen of the United States of America (collectively, the &quot;Reporting Persons&quot;), each of whom may be deemed to have a pecuniary interest in the securities reported on this Form 4 (the &quot;Subject Securities&quot;).  The Subject Securities are owned directly by Daniel M. Friedberg, a Managing Partner of 325 Capital who serves on the board of directors of TransAct Technologies Incorporated (the &quot;Company&quot;).  The other Reporting Persons may be deemed &quot;directors by deputization&quot; of the Company.  (Footnote continued in 4)</footnote>
+        <footnote id="F4">(Continued from Footnote 3) 325 Capital, as the investment adviser to an affiliated investment fund that is entitled to receive all of the economic interest in securities granted to Mr. Friedberg by the Company in respect of his service on the board of directors, may be deemed to be the beneficial owner of the Subject Securities for purposes of Rule 16a-1(a) under the Securities Exchange Act of 1934, as amended.  By virtue of their position as Managing Partners of 325 Capital, Messrs. Braner and Shrivastava may be deemed to be beneficial owners of the Subject Securities for purposes of Rule 16a-1(a) under the Exchange Act. Each of the Reporting Persons disclaims any beneficial ownership of any of the Subject Securities, except to the extent of any pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>325 Capital LLC, By /s/ Michael D. Braner, Name: Michael D. Braner, Title: Managing Partner</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael D. Braner</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel M. Friedberg</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Anil K. Shrivastava</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

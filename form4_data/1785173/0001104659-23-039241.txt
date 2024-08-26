@@ -1,0 +1,410 @@
+<SEC-DOCUMENT>0001104659-23-039241.txt : 20230330
+<SEC-HEADER>0001104659-23-039241.hdr.sgml : 20230330
+<ACCEPTANCE-DATETIME>20230330170015
+ACCESSION NUMBER:		0001104659-23-039241
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230324
+FILED AS OF DATE:		20230330
+DATE AS OF CHANGE:		20230330
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RA Capital Healthcare Fund LP
+		CENTRAL INDEX KEY:			0001315082
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39122
+		FILM NUMBER:		23781513
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6177782500
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	RA Capital Biotech Fund LP
+		DATE OF NAME CHANGE:	20050121
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RA CAPITAL MANAGEMENT, L.P.
+		CENTRAL INDEX KEY:			0001346824
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39122
+		FILM NUMBER:		23781514
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 BERKELEY STREET, 18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-778-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BERKELEY STREET, 18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	RA CAPITAL MANAGEMENT, LLC
+		DATE OF NAME CHANGE:	20051213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kolchinsky Peter
+		CENTRAL INDEX KEY:			0001384859
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39122
+		FILM NUMBER:		23781511
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shah Rajeev M.
+		CENTRAL INDEX KEY:			0001619841
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39122
+		FILM NUMBER:		23781510
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RA Capital Nexus Fund, L.P.
+		CENTRAL INDEX KEY:			0001780117
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39122
+		FILM NUMBER:		23781512
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		(617) 778-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BERKELEY STREET
+		STREET 2:		18TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			89bio, Inc.
+		CENTRAL INDEX KEY:			0001785173
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				831114349
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		142 SANSOME STREET
+		STREET 2:		SECOND FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		(415) 432-9270
+
+	MAIL ADDRESS:	
+		STREET 1:		142 SANSOME STREET
+		STREET 2:		SECOND FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2311041-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001785173</issuerCik>
+        <issuerName>89bio, Inc.</issuerName>
+        <issuerTradingSymbol>ETNB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001346824</rptOwnerCik>
+            <rptOwnerName>RA CAPITAL MANAGEMENT, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 BERKELEY STREET, 18TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001315082</rptOwnerCik>
+            <rptOwnerName>RA Capital Healthcare Fund LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RA CAPITAL MANAGEMENT, L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 BERKELEY STREET, 18TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001780117</rptOwnerCik>
+            <rptOwnerName>RA Capital Nexus Fund, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RA CAPITAL MANAGEMENT, L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 BERKELEY STREET, 18TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001384859</rptOwnerCik>
+            <rptOwnerName>Kolchinsky Peter</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RA CAPITAL MANAGEMENT, L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 BERKELEY STREET, 18TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001619841</rptOwnerCik>
+            <rptOwnerName>Shah Rajeev M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RA CAPITAL MANAGEMENT, L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 BERKELEY STREET, 18TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2461538</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.25</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11081584</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>335364</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquired from the Issuer pursuant to the public offering described in the Issuer's Prospectus filed with the Securities and Exchange Commission on March 27, 2023.</footnote>
+        <footnote id="F2">Held directly by the RA Capital Healthcare Fund, L.P. (the &quot;Fund&quot;).</footnote>
+        <footnote id="F3">Held directly by the RA Capital Nexus Fund, L.P. (the &quot;Nexus Fund&quot;).</footnote>
+        <footnote id="F4">RA Capital Management, L.P. (the &quot;Adviser&quot;) is the investment manager for the Fund and the Nexus Fund. The general partner of the Adviser is RA Capital Management GP, LLC (the &quot;Adviser GP&quot;), of which Dr. Peter Kolchinsky and Mr. Rajeev Shah are the managing members. The Adviser, the Adviser GP, Dr. Kolchinsky, and Mr. Shah disclaim beneficial ownership of any of the reported securities, except to the extent of their pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Kolchinsky, Manager of RA Capital Management, L.P</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Kolchinsky, Manager of RA Capital Healthcare Fund GP, LLC the General Partner of RA Capital Healthcare Fund, L.P.</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Kolchinsky, Manager of RA Capital Nexus Fund GP, LLC the General Partner of RA Capital Nexus Fund, L.P.</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Kolchinsky, individually</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Rajeev Shah, individually</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

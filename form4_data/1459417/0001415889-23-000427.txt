@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001415889-23-000427.txt : 20230104
+<SEC-HEADER>0001415889-23-000427.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104181012
+ACCESSION NUMBER:		0001415889-23-000427
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Norden Matthew J.
+		CENTRAL INDEX KEY:			0001775072
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36376
+		FILM NUMBER:		23508662
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 2U, INC.
+		STREET 2:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			2U, Inc.
+		CENTRAL INDEX KEY:			0001459417
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				262335939
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+		BUSINESS PHONE:		(301) 892-4350
+
+	MAIL ADDRESS:	
+		STREET 1:		7900 HARKINS ROAD
+		CITY:			LANHAM
+		STATE:			MD
+		ZIP:			20706
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	2tor, Inc.
+		DATE OF NAME CHANGE:	20090324
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-01042023_110147.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001459417</issuerCik>
+        <issuerName>2U, Inc.</issuerName>
+        <issuerTradingSymbol>TWOU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001775072</rptOwnerCik>
+            <rptOwnerName>Norden Matthew J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 2U, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7900 HARKINS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LANHAM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20706</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF LEGAL OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7054</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.31</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146378</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew J. Norden</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

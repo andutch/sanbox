@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001289134-23-000017.txt : 20230329
+<SEC-HEADER>0001289134-23-000017.hdr.sgml : 20230329
+<ACCEPTANCE-DATETIME>20230329085118
+ACCESSION NUMBER:		0001289134-23-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230329
+DATE AS OF CHANGE:		20230329
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rendino Kevin
+		CENTRAL INDEX KEY:			0001289134
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-07074
+		FILM NUMBER:		23771904
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SCUDDERS MILL RD
+		CITY:			PLAINSBORO
+		STATE:			NJ
+		ZIP:			08536
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			180 DEGREE CAPITAL CORP. /NY/
+		CENTRAL INDEX KEY:			0000893739
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTORS, NEC [6799]
+		IRS NUMBER:				133119827
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7 N. WILLOW STREET
+		STREET 2:		SUITE 4B
+		CITY:			MONTCLAIR
+		STATE:			NJ
+		ZIP:			07042
+		BUSINESS PHONE:		973-746-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		7 N. WILLOW STREET
+		STREET 2:		SUITE 4B
+		CITY:			MONTCLAIR
+		STATE:			NJ
+		ZIP:			07042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARRIS & HARRIS GROUP INC /NY/
+		DATE OF NAME CHANGE:	19930714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168009426801619.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000893739</issuerCik>
+        <issuerName>180 DEGREE CAPITAL CORP. /NY/</issuerName>
+        <issuerTradingSymbol>TURN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001289134</rptOwnerCik>
+            <rptOwnerName>Rendino Kevin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7 NORTH WILLOW STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 4B</rptOwnerStreet2>
+            <rptOwnerCity>MONTCLAIR</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07042</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>895</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>637903</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel B. Wolfe by Power of Attorney</signatureName>
+        <signatureDate>2023-03-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>kmr-powerofattorneyx3x31x17.htm
+<DESCRIPTION>POA KMR - 180
+<TEXT>
+<!-- Document created using Workiva -->
+<html>
+<body>
+<pre>
+POWER OF ATTORNEY
+
+
+The undersigned, being a person required to file a statement under Section 16(a)of the Securities Exchange Act of 1934 (the "1934 Act") with respect to 180 Degree Capital Corp., a New York corporation, hereby authorizes, designates and appoints Alicia M. Gift and Daniel B. Wolfe to act as attorney-in-fact to execute and file statements on Form 3, Form 4 and Form 5 (including Form ID) and any successor forms adopted by the Securities Exchange Commission, as required by the 1934 Act and the Investment Company Act of 1940 and the rules thereunder, and to take such other actions as such attorney-in-fact may deem necessary or appropriate in connection with such statements, hereby confirming and ratifying all actions that such attorney-in-fact has taken or may take in reliance hereon.  This power of attorney shall continue in effect until the undersigned no longer has an obligation to file statements under the section cited above, or until specifically terminated in writing by the undersigned.
+
+IN WITNESS WHEREOF, the undersigned has duly executed this power of attorney on the 31st day of March 2017.
+
+
+
+By:   Kevin M. Rendino
+      -----------------------
+      Kevin M. Rendino
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

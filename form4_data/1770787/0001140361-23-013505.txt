@@ -1,0 +1,264 @@
+<SEC-DOCUMENT>0001140361-23-013505.txt : 20230323
+<SEC-HEADER>0001140361-23-013505.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323182547
+ACCESSION NUMBER:		0001140361-23-013505
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230321
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hindson Benjamin J.
+		CENTRAL INDEX KEY:			0001786391
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39035
+		FILM NUMBER:		23757358
+
+	MAIL ADDRESS:	
+		STREET 1:		10X GENOMICS, INC.
+		STREET 2:		6230 STONERIDGE MALL ROAD
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			10x Genomics, Inc.
+		CENTRAL INDEX KEY:			0001770787
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				455614458
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6230 STONERIDGE MALL ROAD
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+		BUSINESS PHONE:		(925) 401-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		6230 STONERIDGE MALL ROAD
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	10X Genomics, Inc.
+		DATE OF NAME CHANGE:	20190315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001770787</issuerCik>
+        <issuerName>10x Genomics, Inc.</issuerName>
+        <issuerTradingSymbol>TXG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001786391</rptOwnerCik>
+            <rptOwnerName>Hindson Benjamin J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 10X GENOMICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6230 STONERIDGE MALL ROAD</rptOwnerStreet2>
+            <rptOwnerCity>PLEASANTON</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94588</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36387</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>286624</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>50.1</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36387</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>36387</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36387</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance- based Restricted Stock  Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18194</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-04-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>18194</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18194</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Constitute restricted stock units (&quot;RSUs&quot;). Each RSU represents a contingent right to receive one share of Class A Common Stock upon vesting. 1/16th of the RSUs shall vest
+on each quarterly anniversary measured from February 21, 2023, subject to the Reporting Person continuing as a service provider through each such date.</footnote>
+        <footnote id="F2">1/48th of the total number of shares subject to the option vest on each monthly anniversary measured from April 1, 2023, subject to the Reporting Person continuing as a
+service provider through each such date.</footnote>
+        <footnote id="F3">Each Performance-Based Restricted Stock Unit (&quot;PSU&quot;) represents a contingent right to receive one share of Class A Common Stock upon vesting. 1/3rd of the PSUs shall vest
+upon the Issuer's Class A Common Stock achieving each of three escalating stock price milestones, subject to the Reporting Person continuing as a service provider through
+each such date.</footnote>
+    </footnotes>
+
+    <remarks>President and Chief Scientific Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric S. Whitaker, as Attorney-in-Fact for Benjamin J.
+Hindson</signatureName>
+        <signatureDate>2023-03-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

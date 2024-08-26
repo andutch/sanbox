@@ -1,2 +1,15 @@
-windows-test-test
-ubuntu-test
+ToDo:
+Insider-trading
+    python script to fetch edgar data
+    -manually download the historical insider trading data from 
+    https://www.sec.gov/data-research/sec-markets-data/insider-transactions-data-sets
+    -how to get daily and maintain? how to verify against quarterly
+
+
+SEC Data
+    https://www.sec.gov/data-research/sec-markets-data
+    https://www.sec.gov/data-research/sec-data-resources
+    
+
+FINRA data
+FED data

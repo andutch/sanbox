@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001567619-23-005200.txt : 20230316
+<SEC-HEADER>0001567619-23-005200.hdr.sgml : 20230316
+<ACCEPTANCE-DATETIME>20230316181149
+ACCESSION NUMBER:		0001567619-23-005200
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230314
+FILED AS OF DATE:		20230316
+DATE AS OF CHANGE:		20230316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SANDERS RICHARD M.
+		CENTRAL INDEX KEY:			0001593976
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36338
+		FILM NUMBER:		23740114
+
+	MAIL ADDRESS:	
+		STREET 1:		1119 PIEDRA RONDO
+		CITY:			SANTA FE
+		STATE:			NM
+		ZIP:			87501
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			22nd Century Group, Inc.
+		CENTRAL INDEX KEY:			0001347858
+		STANDARD INDUSTRIAL CLASSIFICATION:	CIGARETTES [2111]
+		IRS NUMBER:				980468420
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8560 MAIN STREET
+		STREET 2:		SUITE 4
+		CITY:			WILLIAMSVILLE
+		STATE:			NY
+		ZIP:			14221
+		BUSINESS PHONE:		(716) 270-1523
+
+	MAIL ADDRESS:	
+		STREET 1:		8560 MAIN STREET
+		STREET 2:		SUITE 4
+		CITY:			WILLIAMSVILLE
+		STATE:			NY
+		ZIP:			14221
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Touchstone Mining LTD
+		DATE OF NAME CHANGE:	20051222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001347858</issuerCik>
+        <issuerName>22nd Century Group, Inc.</issuerName>
+        <issuerTradingSymbol>XXII</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001593976</rptOwnerCik>
+            <rptOwnerName>SANDERS RICHARD M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 22ND CENTURY GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 SENECA STREET, SUITE 507</rptOwnerStreet2>
+            <rptOwnerCity>BUFFALO</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>14204</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>128342</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>572686</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units vest 100% on March 14, 2024, subject to continued service by the Reporting Person with the Company.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John J. Wolfel, Attorney-in-Fact for Richard M. Sanders</signatureName>
+        <signatureDate>2023-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
